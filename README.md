@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 À propos de moi
-- 💻 Passionné par le développement web et backend, j'aime travailler avec **TypeScript, Python et PHP**.
+- 💻 Passionné par le développement web, mobile, desktop et backend, j'aime travailler avec **TypeScript, Python et PHP**.
 - 🏗️ J'ai une forte expertise sur **React, Next.js, Vanilla JS, FastAPI, Symfony, API Platform**.
 - 📊 Je maîtrise aussi **Elasticsearch, Docker et les pipelines CI/CD** pour des déploiements efficaces.
 - 🔎 Toujours en quête de nouveaux challenges et de technologies innovantes.
@@ -20,7 +20,9 @@
 ### 🛠️ Stack Technique
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white" />
