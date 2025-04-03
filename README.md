@@ -37,9 +37,8 @@
 ---
 
 ### 📫 Me contacter
-- 📧 Email : **[TonEmail@exemple.com]**
-- 💼 LinkedIn : [TonProfil](https://www.linkedin.com/in/tonprofil/)
-- 🌍 Portfolio : [TonSiteWeb](https://tonsiteweb.com)
+- 📧 Email : **[sakaizanomena@gmail.com]**
+- 💼 LinkedIn : [TonProfil](www.linkedin.com/in/sahaza-nomena-razafimandimby-80b11722
 - 🐙 GitHub : **[@SakaizaNomena](https://github.com/SakaizaNomena)**
 
 ---
