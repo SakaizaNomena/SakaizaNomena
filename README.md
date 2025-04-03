@@ -11,7 +11,7 @@
 
 ### 🚀 À propos de moi
 - 💻 Passionné par le développement web, mobile, desktop et backend, j'aime travailler avec **TypeScript, Python et PHP**.
-- 🏗️ J'ai une forte expertise sur **React, Next.js, Vanilla JS, FastAPI, Symfony, API Platform**.
+- 🏗️ J'ai une forte expertise sur **React, Next.js, React Native, Tauri, Vanilla JS, FastAPI, Symfony, API Platform**.
 - 📊 Je maîtrise aussi **Elasticsearch, Docker et les pipelines CI/CD** pour des déploiements efficaces.
 - 🔎 Toujours en quête de nouveaux challenges et de technologies innovantes.
 
