@@ -38,7 +38,7 @@
 
 ### 📫 Me contacter
 - 📧 Email : **[sakaizanomena@gmail.com]**
-- 💼 LinkedIn : [www.linkedin.com/in/sahaza-nomena-razafimandimby-80b11722
+- 💼 LinkedIn : [[www.linkedin.com/in/sahaza-nomena-razafimandimby-80b11722](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)]
 - 🐙 GitHub : **[@SakaizaNomena](https://github.com/SakaizaNomena)**
 
 ---
