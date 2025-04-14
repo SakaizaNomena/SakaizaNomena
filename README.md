@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋, Moi c'est Sahaza N.</h1>
+<h1 align="center">Salut 👋, Moi c'est Sahaza Noum.</h1>
 <h3 align="center">Développeur | TypeScript, Python, PHP</h3>
 
 <p align="center">
